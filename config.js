@@ -1,2 +1,2 @@
 console.log("Inside config file")
-console.log("version 3")
+console.log("version 4")
